@@ -17,8 +17,8 @@ export default function CustomerApp() {
                     <h1 className='font-bold md:text-4xl text-2xl mt-9'>1,25,000 Customers Using The Application!</h1>
                     <p className='text-gray-500 mt-9 md:pr-12'>
                         Collaborate over projects with your team and clients optimised for
-                        mobile and tablet don't let slow page speeds drive our innovative
-                        platform empowers anyone to convert clicks ou'll publish your
+                        mobile and tablet don&apos;t let slow page speeds drive our innovative
+                        platform empowers anyone to convert clicks ou&apos;ll publish your
                         first landing page in minutes.
                     </p>
                     <div className='mt-9'>
@@ -61,8 +61,8 @@ export default function CustomerApp() {
                     <h1 className='font-bold md:text-4xl text-2xl mt-9'>Seamless Loyalty</h1>
                     <p className='text-gray-500 mt-9 md:pr-12'>
                         Collaborate over projects with your team and clients optimised for
-                        mobile and tablet don't let slow page speeds drive our innovative
-                        platform empowers anyone to convert clicks ou'll publish your
+                        mobile and tablet don&apos;t let slow page speeds drive our innovative
+                        platform empowers anyone to convert clicks ou&apos;ll publish your
                         first landing page in minutes.
                     </p>
                     <div className='mt-9'>
